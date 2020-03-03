@@ -1,7 +1,5 @@
 
-body {
-    background-color: #4ff31d;
-}
+
 
 .topbar {
 	background: #2A3F54;
@@ -10,13 +8,13 @@ body {
 }
 
 .topbar .navbar-header a {
-	color: #ffffff;
+	color: #F1F6EE;
 }
 
 .ex{
-    background-color: #191970 ;
+    background-color: #294452 ;
     width: 8rem;
-    color: #ffffff;
+    color: #F1F6EE;
     
 }
 
@@ -26,13 +24,13 @@ body {
 
 .box{
     padding: 20px 5px 5px 5px;
-    background-color: #2A3F54;
+    background-color: #98AEAE;
     height: 100vh;
 }
 
 
 .fila, .agent, .tma, .tme{
-    background-color: #008000;
+    background-color: #127639;
 }
 
 .dot {
@@ -41,8 +39,12 @@ body {
     margin-right: 10px;
     height: 15px;
     width: 15px;
-    background-color: green;
+    background-color: #127639;
     border-radius: 50%;
     display: inline-block;
+  }
+
+  .rec {
+      background-color: #127639;
   }
 
